@@ -18,3 +18,7 @@
   .basis-md-50 {
 	flex-basis: 50%
   }  
+.list-border-black-20 li,
+.list-border-black-20 li:last-child{
+  border-color: rgba(0,0,0,0.2)
+}
