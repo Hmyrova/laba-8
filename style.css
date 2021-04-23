@@ -18,7 +18,3 @@
   .basis-md-50 {
 	flex-basis: 50%
   }  
-}
-.fa-flag:before {
-  content: "\f024";
-}
